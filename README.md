@@ -1,5 +1,6 @@
 Instructions
 
+To run download the latest release and run A4Game.exe
 
 The game is a point-and-click adventure-style game. The game has two areas: the security room (where you spawn) and the market area. When in the beginning area there are three different interactive objects to click. Each object will show the use of ducking (6), and reverb (3). The first of these is the sign to the left displaying a person that won employee of the month. Clicking on this will make the main character say something, which will cause the background music to be ducked. The second is the guard. Clicking on him will cause him to tell you to leave since you do not have clearance, this also enables a duck. The third are the laser beams. Clicking on these will also cause a line to be said. Each of these lines are ducked as well as have reverb settings appropriate for a small area with a lot of metal. If you head toward the bottom of the level, you will be able to leave and go to the next room. This causes a scene switch and will cause the music being played in the background to fade out and the new music to fade in. This also applies when coming into the security room from the market are. (5) 
 
